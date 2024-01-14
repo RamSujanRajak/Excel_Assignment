@@ -1,0 +1,25 @@
+Output.TXT
+
+Enter the path of the Excel file: .\Assignment_Timecard.xlsx
+Less than 10 hours between shifts:
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts on 2023-09-13 05:30:37
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts on 2023-09-14 14:30:23
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts on 2023-09-20 05:30:05
+CEMMa, Jessica (WFS000503): Less than 10 hours between shifts on 2023-09-21 13:30:32
+CEreira Jr, JEse (WFS000456): Less than 10 hours between shifts on 2023-09-14 08:00:00
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts on 2023-09-11 19:01:00
+CaMaXaWE, CeghaW (WFS000153): Less than 10 hours between shifts on 2023-09-20 18:32:00
+De Xa Cerda, IgWaciE (WFS000318): Less than 10 hours between shifts on 2023-09-22 15:00:24
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): Less than 10 hours between shifts on 2023-09-17 23:27:00
+GrACfieXd, CErWeXiAs (WFS000515): Less than 10 hours between shifts on 2023-09-12 15:00:10
+HAWMer, ViWceWM De PaAX (WFS000538): Less than 10 hours between shifts on 2023-09-16 08:00:00
+HaCiXMEW, DeaWMe DevEW (WFS000536): Less than 10 hours between shifts on 2023-09-21 18:45:00
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts on 2023-09-14 08:30:05
+MraW, WiXXiaC Ha (WFS000345): Less than 10 hours between shifts on 2023-09-21 08:00:11
+REdrigAez, GraWdEW AWgeX (WFS000550): Less than 10 hours between shifts on 2023-09-23 15:45:00
+Xee, XaCar (WFS000200): Less than 10 hours between shifts on 2023-09-12 00:00:00
+Xee, XaCar (WFS000200): Less than 10 hours between shifts on 2023-09-18 23:00:00
+Xee, XaCar (WFS000200): Less than 10 hours between shifts on 2023-09-19 23:00:00
+
+More than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523): More than 14 hours in a single shift on 2023-09-17 04:00:01

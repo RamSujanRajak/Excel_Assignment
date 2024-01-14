@@ -1,4 +1,25 @@
-Output.TXT
+**Explanation of the key parts of the code:**
+
+1. Reading Excel File:
+    • The pd.read_excel(file_path) function is used to read the Excel file and create a DataFrame (df).
+
+2. Sorting the DataFrame:
+    • The DataFrame is sorted by 'Employee Name', 'Position ID', and 'Time' using df.sort_values().
+
+3. Work Lists:
+    • Three lists (less_than_10_hours_Work, more_than_14_hours_Work,consecutive_7_days_Work) are initialized to store different types of Work.
+
+4. Iteration Over Employees and Rows:
+    • The code iterates over each employee, and for each employee, it iterates over the rows of their data.
+
+5. Violation Checks:
+    • Work related to less than 10 hours between shifts, more than 14 hours in a single shift, and working for 7 consecutive days are checked.
+
+6. Printing Violations:
+    • Work related to less than 10 hours between shifts, more than 14 hours in a single shift, and working for 7 consecutive days are checked.
+
+
+**Output.TXT**
 
 Enter the path of the Excel file: .\Assignment_Timecard.xlsx
 Less than 10 hours between shifts:
